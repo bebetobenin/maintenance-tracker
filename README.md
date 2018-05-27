@@ -1,2 +1,2 @@
 # maintenance-tracker
-Add gh-pages.
+Add gh-pages
