@@ -1,0 +1,25 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.submit-button { 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+}
+
+.input-field {
+    width: 400px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.form {
+    position: relative;
+    left: 180px;
+
+}
+
+a {
+    text-decoration: none;
+}
